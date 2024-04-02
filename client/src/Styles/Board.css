@@ -1,0 +1,11 @@
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-gap: 10px;
+    margin: auto;
+    background-color: #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    justify-content: center;
+  }
+  
